@@ -1,0 +1,23 @@
+# Node Modules
+node_modules/
+
+# Скомпилированные файлы TypeScript
+dist/
+
+# Файлы окружения
+.env
+
+# Логи
+*.log
+logs/
+
+# Файлы IDE/редактора
+.vscode/
+.idea/
+
+# Временные файлы
+tmp/
+temp/
+
+# Покрытие тестами
+coverage/
